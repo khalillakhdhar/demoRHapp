@@ -22,6 +22,7 @@ vu=new ValidateUser();
 		String nom="Khalil";
 		assertTrue(vu.validateName(nom));
 		
+		
 	}
 	@Test
 	public void testInvalide()
